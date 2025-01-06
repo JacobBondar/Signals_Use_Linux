@@ -35,7 +35,7 @@ int calculating_the_max_inserts();
 int main()
 {
     struct sigaction action;
-
+    
     action.sa_handler = catch_signal;
     sigfillset(&action.sa_mask);
     action.sa_flags = 0;
