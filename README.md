@@ -26,7 +26,7 @@ Output: The maximum number of inputs given in the whole rounds.
 
 
 
-File: ex2b.c 
+File: SearchNums.c 
 
 Ex #2: Search Amount Of Random Numbers.
 ==========================================================
@@ -68,8 +68,8 @@ possible outputs: I lose
 The program uses signals (SIGUSR1 and SIGUSR2) to communicate between
  the processes. The winner sends a signal to the other process.
 
-Compile: gcc -Wall ex2b.c –o ex2b
-Run: ./ex2b
+Compile: gcc -Wall SearchNums.c –o SearchNums
+Run: ./SearchNums
 
 Input: No input.
  
