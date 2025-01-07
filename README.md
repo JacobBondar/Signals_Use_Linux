@@ -21,6 +21,11 @@ Input: User enters an enter and then the maximum numbers he can in
 Output: The maximum number of inputs given in the whole rounds.
 
 
+
+
+
+
+
 File: ex2b.c 
 
 Ex #2: Search Amount Of Random Numbers.
