@@ -1,6 +1,6 @@
 # Signals_Use_Linux
 
-File: ex2a.c 
+File: CountT05.c 
 
 Ex #1: Counting amount of max numbers under 5 seconds.
 ==========================================================
@@ -12,8 +12,8 @@ This program simulates a counting game where the user has 5
 This program tracks the maximum number of inputs given threw the 10 
  rounds. Each round starts when the users press enter.
 
-Compile: gcc -Wall ex2a.c –o ex2a
-Run: ./ex2a
+Compile: gcc -Wall CountT05.c –o CountT05
+Run: ./CountT05
 
 Input: User enters an enter and then the maximum numbers he can in 
  	5 seconds.
