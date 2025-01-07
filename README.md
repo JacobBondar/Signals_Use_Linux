@@ -1,6 +1,7 @@
 # Signals_Use_Linux
 
 File: ex2a.c 
+
 Ex #1: Counting amount of max numbers under 5 seconds.
 ==========================================================
 Written by: Jacob Bondar.
