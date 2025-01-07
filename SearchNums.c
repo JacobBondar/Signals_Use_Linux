@@ -73,7 +73,7 @@ int main()
 	}
 
 	exit(EXIT_SUCCESS);
-}
+} 
 //----------------------------------------------------------------------
 // The function check if a certain number is prime.
 // The funcion recives one number.
