@@ -22,6 +22,7 @@ Output: The maximum number of inputs given in the whole rounds.
 
 
 File: ex2b.c 
+
 Ex #2: Search Amount Of Random Numbers.
 ==========================================================
 Written by: Jacob Bondar.
